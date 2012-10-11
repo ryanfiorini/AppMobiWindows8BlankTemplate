@@ -1,0 +1,1 @@
+C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate.csproj;neutral
