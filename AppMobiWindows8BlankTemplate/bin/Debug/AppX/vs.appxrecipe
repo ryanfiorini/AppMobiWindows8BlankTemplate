@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\bin\Debug\AppMobiWindows8BlankTemplate.exe">
       <PackagePath>AppMobiWindows8BlankTemplate.exe</PackagePath>
-      <Modified>2012-10-11T14:54:09.139</Modified>
+      <Modified>2012-10-15T17:46:36.585</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\bin\Debug\AppMobiWindows8BlankTemplate.pdb">
       <PackagePath>AppMobiWindows8BlankTemplate.pdb</PackagePath>
-      <Modified>2012-10-11T14:54:09.111</Modified>
+      <Modified>2012-10-15T17:46:36.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -70,7 +70,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\bin\Debug\AppMobiPage.xaml">
       <PackagePath>AppMobiPage.xaml</PackagePath>
-      <Modified>2012-10-11T11:57:40.199</Modified>
+      <Modified>2012-10-15T17:42:40.955</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
