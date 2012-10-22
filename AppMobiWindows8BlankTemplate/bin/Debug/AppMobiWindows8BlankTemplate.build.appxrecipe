@@ -35,17 +35,20 @@
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\appmobi_local_bootstrap.js">
-      <PackagePath>html\appmobi_local_bootstrap.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\_appMobi\xhr.js">
-      <PackagePath>html\_appMobi\xhr.js</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\images\background.jpg">
       <PackagePath>html\images\background.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\index.html">
       <PackagePath>html\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\_appMobi\appmobi.js">
+      <PackagePath>html\_appMobi\appmobi.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\_appMobi\appmobi_local_bootstrap.js">
+      <PackagePath>html\_appMobi\appmobi_local_bootstrap.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\_appMobi\xhr.js">
+      <PackagePath>html\_appMobi\xhr.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>

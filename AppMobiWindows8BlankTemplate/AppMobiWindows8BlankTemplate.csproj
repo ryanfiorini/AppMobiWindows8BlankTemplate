@@ -125,9 +125,10 @@
     <Content Include="Assets\SmallLogo.png" />
     <Content Include="Assets\SplashScreen.png" />
     <Content Include="Assets\StoreLogo.png" />
-    <Content Include="html\appmobi_local_bootstrap.js" />
     <Content Include="html\images\background.jpg" />
     <Content Include="html\index.html" />
+    <Content Include="html\_appMobi\appmobi.js" />
+    <Content Include="html\_appMobi\appmobi_local_bootstrap.js" />
     <Content Include="html\_appMobi\xhr.js" />
   </ItemGroup>
   <ItemGroup>
