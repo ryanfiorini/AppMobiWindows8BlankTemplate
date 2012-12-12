@@ -18,13 +18,13 @@ C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiW
 C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\MainPage.xaml
 C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\AppMobiWindows8BlankTemplate.exe
 C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\AppMobiWindows8BlankTemplate.pdb
+C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\pri.resfiles.intermediate
 C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\priconfig.xml
 C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\layout.resfiles
 C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\resources.resfiles
 C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\pri.resfiles
 C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\LanguageQualifiers.txt
 C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\ProjectArchitectures.txt
-C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\priconfig.xml.intermediate
-C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\layout.resfiles.intermediate
-C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\resources.resfiles.intermediate
-C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\obj\Debug\pri.resfiles.intermediate

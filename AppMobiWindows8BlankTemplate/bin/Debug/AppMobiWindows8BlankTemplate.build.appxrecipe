@@ -47,8 +47,14 @@
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\_appMobi\appmobi_local_bootstrap.js">
       <PackagePath>html\_appMobi\appmobi_local_bootstrap.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\_appMobi\window.js">
+      <PackagePath>html\_appMobi\window.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\_appMobi\xhr.js">
       <PackagePath>html\_appMobi\xhr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\readme.txt">
+      <PackagePath>readme.txt</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>

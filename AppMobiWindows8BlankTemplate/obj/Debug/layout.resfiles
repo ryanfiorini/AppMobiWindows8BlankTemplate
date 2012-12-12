@@ -8,6 +8,8 @@ Common\StandardStyles.xaml
 MainPage.xaml
 html\_appMobi\appmobi.js
 html\_appMobi\appmobi_local_bootstrap.js
+html\_appMobi\window.js
 html\_appMobi\xhr.js
 html\images\background.jpg
 html\index.html
+readme.txt

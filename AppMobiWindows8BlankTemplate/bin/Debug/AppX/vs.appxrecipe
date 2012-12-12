@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-10-22T14:43:26.926</Modified>
+      <Modified>2012-12-12T15:30:15.865</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\bin\Debug\AppMobiWindows8BlankTemplate.exe">
       <PackagePath>AppMobiWindows8BlankTemplate.exe</PackagePath>
-      <Modified>2012-10-22T14:43:26.609</Modified>
+      <Modified>2012-12-12T15:30:15.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\bin\Debug\AppMobiWindows8BlankTemplate.pdb">
       <PackagePath>AppMobiWindows8BlankTemplate.pdb</PackagePath>
-      <Modified>2012-10-22T14:43:26.567</Modified>
+      <Modified>2012-12-12T15:30:15.445</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -54,19 +54,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\index.html">
       <PackagePath>html\index.html</PackagePath>
-      <Modified>2012-10-22T14:43:23.303</Modified>
+      <Modified>2012-12-03T20:09:30.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\_appMobi\appmobi.js">
       <PackagePath>html\_appMobi\appmobi.js</PackagePath>
-      <Modified>2012-10-22T14:54:09.760</Modified>
+      <Modified>2012-12-12T15:28:16.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\_appMobi\appmobi_local_bootstrap.js">
       <PackagePath>html\_appMobi\appmobi_local_bootstrap.js</PackagePath>
-      <Modified>2012-10-22T14:05:27.575</Modified>
+      <Modified>2012-12-10T19:30:02.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\_appMobi\window.js">
+      <PackagePath>html\_appMobi\window.js</PackagePath>
+      <Modified>2012-12-11T19:32:57.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\html\_appMobi\xhr.js">
       <PackagePath>html\_appMobi\xhr.js</PackagePath>
       <Modified>2012-10-11T14:52:53.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\readme.txt">
+      <PackagePath>readme.txt</PackagePath>
+      <Modified>2012-12-10T19:34:39.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
@@ -86,7 +94,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan\SkyDrive\Development\window8\AppMobiWindows8BlankTemplate\AppMobiWindows8BlankTemplate\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-10-22T14:43:26.776</Modified>
+      <Modified>2012-12-12T15:30:15.711</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
