@@ -124,6 +124,8 @@
     <Content Include="Assets\Logo.png" />
     <Content Include="Assets\SmallLogo.png" />
     <Content Include="Assets\SplashScreen.png" />
+    <Content Include="Assets\splash_landscape.png" />
+    <Content Include="Assets\splash_portrait.png" />
     <Content Include="Assets\StoreLogo.png" />
     <Content Include="html\images\background.jpg" />
     <Content Include="html\index.html" />
